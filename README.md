@@ -1,6 +1,6 @@
 # Coffee_Shop_excel
-Password - 12345
-Overview
+*Password* - 12345
+*Overview*
 This project involves the analysis of a coffee shop's data to extract key insights and trends. The primary objective is to identify patterns that can help improve business operations and customer satisfaction.
 
 Tools Used
