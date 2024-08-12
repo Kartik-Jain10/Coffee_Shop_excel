@@ -11,7 +11,7 @@ Data Transformation: Organized data for better analysis and visualization.
 Analysis: Extracted actionable insights to improve decision-making.
 Interactive Dashboard: Developed a user-friendly dashboard to visualize the results and support business strategies.
 Getting Started
-Download the dataset from [source link] (replace with actual link).
+Dataset is attached.
 Open the Excel file and follow the steps for data cleaning and transformation.
 Explore the interactive dashboard to view the analysis results.
 How to Use
